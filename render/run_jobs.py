@@ -23,7 +23,7 @@ for jf in sorted((root / "jobs").glob("*.json")):
     (root / "render" / "_job.json").write_text(json.dumps(job2, ensure_ascii=False))
     r = subprocess.run([sys.executable, str(root / "render" / "render_video.py"), str(root / "render" / "_job.json")], capture_output=True, text=True)
     ok = r.returncode == 0 and out.exists()
-    report = {"post_id": job["post_id"], "ok": ok, "music": job["music"], "log": (r.stdout if ok else r.stderr)[-1500:]}
+    report = {"post_id": job["post_id"], "ok": ok, "finished_at": __import__("datetime").datetime.utcnow().isoformat() + "Z", "music": job["music"], "log": (r.stdout if ok else r.stderr)[-1500:]}
     if ok: report["upload_status"] = put(job["out"], out.read_bytes(), f"riwa: video {job['post_id']}")
     put(job["out"].rsplit("/", 1)[0] + "/render_report.json", json.dumps(report, ensure_ascii=False, indent=1).encode(), f"riwa: report {job['post_id']}")
     done.append(report)

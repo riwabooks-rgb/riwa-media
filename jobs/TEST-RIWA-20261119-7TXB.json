@@ -16,5 +16,6 @@
  ],
  "music": "music/mystery_soft.m4a",
  "out": "videos/TEST-RIWA-20261119-7TXB-ae79a74f9af1ac87/video.mp4",
- "fade": 0.6
+ "fade": 0.6,
+ "rev": 2
 }

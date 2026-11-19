@@ -1,0 +1,8 @@
+{
+ "post_id": "TEST-RIWA-20261119-2IWM",
+ "ok": true,
+ "finished_at": "2026-11-19T03:39:41.860231Z",
+ "music": "music/reflective_minor.m4a",
+ "log": "{\"durations\": [4.92, 7.0, 5.85, 7.0, 4.5], \"total\": 26.87, \"probe\": {\"programs\": [], \"stream_groups\": [], \"streams\": [{\"codec_name\": \"h264\", \"width\": 1080, \"height\": 1920, \"r_frame_rate\": \"30/1\"}, {\"codec_name\": \"aac\", \"sample_rate\": \"44100\", \"channels\": 2, \"r_frame_rate\": \"0/0\"}], \"format\": {\"duration\": \"26.870000\", \"size\": \"2846564\"}}}\n",
+ "upload_status": 201
+}

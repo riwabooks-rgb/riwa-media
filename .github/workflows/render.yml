@@ -20,7 +20,7 @@ jobs:
             music
             jobs
       - name: FFmpeg
-        run: ffmpeg -version | head -1 || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+        run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg); ffmpeg -version | head -1
       - name: Render pending jobs and upload videos
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

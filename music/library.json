@@ -1,0 +1,62 @@
+[
+ {
+  "id": "reflective_minor",
+  "file": "music/reflective_minor.m4a",
+  "mood": "تأملي هادئ بمقام صغير — للأفكار النفسية والذكريات",
+  "bpm": 66,
+  "duration_s": 48,
+  "source": "RIWA original — synthesized programmatically by Claude for RIWA (compose.py), no samples or third-party recordings",
+  "license": "Original work owned by RIWA; free for commercial use including TikTok/Instagram/YouTube; no attribution required",
+  "commercial_tiktok_ok": true
+ },
+ {
+  "id": "warm_hope",
+  "file": "music/warm_hope.m4a",
+  "mood": "دافئ ومتفائل — للخلاصات والتحفيز الهادئ",
+  "bpm": 72,
+  "duration_s": 48,
+  "source": "RIWA original — synthesized programmatically by Claude for RIWA (compose.py), no samples or third-party recordings",
+  "license": "Original work owned by RIWA; free for commercial use including TikTok/Instagram/YouTube; no attribution required",
+  "commercial_tiktok_ok": true
+ },
+ {
+  "id": "mystery_soft",
+  "file": "music/mystery_soft.m4a",
+  "mood": "غامض ناعم — لخفايا النفس والانحيازات",
+  "bpm": 60,
+  "duration_s": 48,
+  "source": "RIWA original — synthesized programmatically by Claude for RIWA (compose.py), no samples or third-party recordings",
+  "license": "Original work owned by RIWA; free for commercial use including TikTok/Instagram/YouTube; no attribution required",
+  "commercial_tiktok_ok": true
+ },
+ {
+  "id": "melancholic",
+  "file": "music/melancholic.m4a",
+  "mood": "حزين رقيق — للعلاقات والفقد والتعلق",
+  "bpm": 58,
+  "duration_s": 48,
+  "source": "RIWA original — synthesized programmatically by Claude for RIWA (compose.py), no samples or third-party recordings",
+  "license": "Original work owned by RIWA; free for commercial use including TikTok/Instagram/YouTube; no attribution required",
+  "commercial_tiktok_ok": true
+ },
+ {
+  "id": "calm_focus",
+  "file": "music/calm_focus.m4a",
+  "mood": "هادئ مركّز — للعادات والإنتاجية والتأجيل",
+  "bpm": 76,
+  "duration_s": 48,
+  "source": "RIWA original — synthesized programmatically by Claude for RIWA (compose.py), no samples or third-party recordings",
+  "license": "Original work owned by RIWA; free for commercial use including TikTok/Instagram/YouTube; no attribution required",
+  "commercial_tiktok_ok": true
+ },
+ {
+  "id": "cinematic_rise",
+  "file": "music/cinematic_rise.m4a",
+  "mood": "سينمائي متصاعد — للمال والطموح وقصص النجاح",
+  "bpm": 64,
+  "duration_s": 48,
+  "source": "RIWA original — synthesized programmatically by Claude for RIWA (compose.py), no samples or third-party recordings",
+  "license": "Original work owned by RIWA; free for commercial use including TikTok/Instagram/YouTube; no attribution required",
+  "commercial_tiktok_ok": true
+ }
+]

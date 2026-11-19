@@ -1,0 +1,26 @@
+name: RIWA render video
+on:
+  push:
+    paths: ["jobs/**.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: riwa-render
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: FFmpeg
+        run: ffmpeg -version | head -1 || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+      - name: Render pending jobs
+        run: python3 render/run_jobs.py
+      - name: Commit videos
+        run: |
+          git config user.name "riwa-render-bot"
+          git config user.email "riwa-render-bot@users.noreply.github.com"
+          git add videos || true
+          git diff --cached --quiet || (git commit -m "riwa: rendered videos" && git push)

@@ -1,0 +1,21 @@
+{
+ "post_id": "TEST-RIWA-20261119-2IWM",
+ "slides": [
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-2IWM-31360732f32f91e8/1.jpg",
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-2IWM-31360732f32f91e8/2.jpg",
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-2IWM-31360732f32f91e8/3.jpg",
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-2IWM-31360732f32f91e8/4.jpg",
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-2IWM-31360732f32f91e8/5.jpg"
+ ],
+ "texts": [
+  "لماذا تقفز ذكريات الموقف المحرج؟",
+  "أحيانًا، في لحظات قبل النوم، يقفز إلى ذهنك موقف محرج من الماضي دون استئذان.",
+  "مثال: حين ناديت المعلم «يمه» أمام الفصل كله، وضحك الجميع.",
+  "الذكرى المحرجة لا تبقى لأنها مهمة، بل لأن الدماغ ظن في لحظتها أنها خطيرة.",
+  ""
+ ],
+ "music": "music/reflective_minor.m4a",
+ "out": "videos/TEST-RIWA-20261119-2IWM-31360732f32f91e8/video.mp4",
+ "fade": 0.6,
+ "requested_at": "2026-11-19T03:39:19.141Z"
+}

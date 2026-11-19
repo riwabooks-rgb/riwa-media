@@ -1,0 +1,32 @@
+name: RIWA music mood analysis
+on:
+  push:
+    paths: ["music_jobs/**.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: riwa-music
+  cancel-in-progress: false
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            render
+            music_jobs
+      - name: Tools
+        run: |
+          if ! command -v ffmpeg >/dev/null; then
+            mkdir -p "$HOME/ff" && cd "$HOME/ff"
+            timeout 180 curl -sSL -o ff.tar.xz https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz && tar xf ff.tar.xz --strip-components=1
+            echo "$HOME/ff" >> "$GITHUB_PATH"
+          fi
+          python3 -c "import numpy" 2>/dev/null || pip install --quiet numpy || pip install --quiet --break-system-packages numpy
+      - name: Analyze CML previews
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 render/analyze_music.py

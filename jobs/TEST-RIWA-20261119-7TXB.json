@@ -1,0 +1,20 @@
+{
+ "post_id": "TEST-RIWA-20261119-7TXB",
+ "slides": [
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-7TXB-ae79a74f9af1ac87/1.jpg",
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-7TXB-ae79a74f9af1ac87/2.jpg",
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-7TXB-ae79a74f9af1ac87/3.jpg",
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-7TXB-ae79a74f9af1ac87/4.jpg",
+  "https://raw.githubusercontent.com/riwabooks-rgb/riwa-media/main/posts/TEST-RIWA-20261119-7TXB-ae79a74f9af1ac87/5.jpg"
+ ],
+ "texts": [
+  "أنت في بقعة ضوء الآخرين",
+  "الكتاب يشرح تأثير بقعة الضوء: نعتقد أن عثراتنا ومظهرنا مكشوفان، بينما الآخرين مشغولون غالبًا ببقعتهم الخاصة.",
+  "في تجربة القميص المحرج ظنوا أن نحو النصف لاحظ الصورة، لكن فعلًا لاحظها قرابة الربع فقط.",
+  "إدراكك الداخلي يبالغ؛ مشاعرك ليست مكشوفة كما تظن.",
+  "تفاصيل أكثر في الكتاب خفايا النفس البشرية رابط في البايو"
+ ],
+ "music": "music/mystery_soft.m4a",
+ "out": "videos/TEST-RIWA-20261119-7TXB-ae79a74f9af1ac87/video.mp4",
+ "fade": 0.6
+}

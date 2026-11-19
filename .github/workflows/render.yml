@@ -11,7 +11,7 @@ concurrency:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
         with:
@@ -20,7 +20,16 @@ jobs:
             music
             jobs
       - name: FFmpeg
-        run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg); ffmpeg -version | head -1
+        run: |
+          if ! command -v ffmpeg >/dev/null; then
+            mkdir -p "$HOME/ff" && cd "$HOME/ff"
+            timeout 180 curl -sSL -o ff.tar.xz https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz \
+              && tar xf ff.tar.xz --strip-components=1 \
+              || (sudo DEBIAN_FRONTEND=noninteractive timeout 400 apt-get install -y -qq --no-install-recommends ffmpeg)
+            if [ -x "$HOME/ff/ffmpeg" ]; then echo "$HOME/ff" >> "$GITHUB_PATH"; fi
+          fi
+      - name: Check FFmpeg
+        run: ffmpeg -version | head -1 && ffprobe -version | head -1
       - name: Render pending jobs and upload videos
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

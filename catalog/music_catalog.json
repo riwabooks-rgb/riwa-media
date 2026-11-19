@@ -1,0 +1,3723 @@
+{
+ "tracks": {
+  "7478246472174143489": {
+   "id": "7478246472174143489",
+   "clip_id": "7478246472174143489",
+   "name": "Dance Like Nobody’s Watching - Instrumental Version",
+   "artist": "Siine",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 245,
+   "rank": 1,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.81,
+    "onset_rate": 3.82,
+    "centroid": 2257,
+    "loud_db": -11.0,
+    "dynamics_db": 12.5,
+    "low_ratio": 0.321,
+    "mode": "major"
+   },
+   "energy": 0.831,
+   "mood": "cinematic_rise",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:09.828081Z"
+  },
+  "7426466948816406540": {
+   "id": "7426466948816406540",
+   "clip_id": "7426466948816406540",
+   "name": "维也纳贵族-2 (F)",
+   "artist": "Music Time",
+   "genres": [
+    "CLASSICAL"
+   ],
+   "duration": 132,
+   "rank": 2,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found",
+   "analyzed_at": "2026-11-19T04:41:10.178881Z"
+  },
+  "6925545061123885057": {
+   "id": "6925545061123885057",
+   "clip_id": "6925545061123885057",
+   "name": "Alert sound to warn of danger (warning: medium)(98764)",
+   "artist": "modeeisennui",
+   "genres": [],
+   "duration": 3,
+   "rank": 4,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "audio too short",
+   "analyzed_at": "2026-11-19T04:41:11.332704Z"
+  },
+  "7611635048814659600": {
+   "id": "7611634549843478544",
+   "clip_id": "7611635048814659600",
+   "name": "Cool Girl",
+   "artist": "Jayde Mari",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 60,
+   "rank": 5,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 152.0,
+    "pulse": 0.258,
+    "onset_rate": 2.8,
+    "centroid": 2798,
+    "loud_db": -14.3,
+    "dynamics_db": 19.9,
+    "low_ratio": 0.183,
+    "mode": "minor"
+   },
+   "energy": 0.685,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:13.383612Z"
+  },
+  "6877432066993031169": {
+   "id": "6877432066993031169",
+   "clip_id": "6877432066993031169",
+   "name": "Crystal Music Box",
+   "artist": "瓜瓜龙儿歌",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 21,
+   "rank": 6,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "HTTP Error 403: Forbidden",
+   "analyzed_at": "2026-11-19T04:41:14.025159Z"
+  },
+  "7551706473152890896": {
+   "id": "7551713473379584017",
+   "clip_id": "7551706473152890896",
+   "name": "cool girls",
+   "artist": "Sonatara",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 60,
+   "rank": 8,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 83.4,
+    "pulse": 0.523,
+    "onset_rate": 4.29,
+    "centroid": 3039,
+    "loud_db": -9.0,
+    "dynamics_db": 8.9,
+    "low_ratio": 0.268,
+    "mode": "major"
+   },
+   "energy": 0.947,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:15.991112Z"
+  },
+  "7595445772344428545": {
+   "id": "7595445772344428545",
+   "clip_id": "7595445772344428545",
+   "name": "Tramonto a Sorrento",
+   "artist": "Alessia Fontana",
+   "genres": [
+    "POP"
+   ],
+   "duration": 306,
+   "rank": 9,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 95.7,
+    "pulse": 0.498,
+    "onset_rate": 2.96,
+    "centroid": 1850,
+    "loud_db": -12.5,
+    "dynamics_db": 9.1,
+    "low_ratio": 0.338,
+    "mode": "minor"
+   },
+   "energy": 0.663,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:18.606247Z"
+  },
+  "6954075644876343298": {
+   "id": "6954075644876343298",
+   "clip_id": "6954075644876343298",
+   "name": "Magic \"Hawawan\"(139908)",
+   "artist": "sadakichi ( sadakkey )",
+   "genres": [],
+   "duration": 2,
+   "rank": 10,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "audio too short",
+   "analyzed_at": "2026-11-19T04:41:18.690308Z"
+  },
+  "6954075337395292162": {
+   "id": "6954075337395292162",
+   "clip_id": "6954075337395292162",
+   "name": "Gentle and painful live performance of violin and piano(1003480)",
+   "artist": "ishinuki",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 158,
+   "rank": 11,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.283,
+    "onset_rate": 2.89,
+    "centroid": 1686,
+    "loud_db": -17.1,
+    "dynamics_db": 11.1,
+    "low_ratio": 0.044,
+    "mode": "major"
+   },
+   "energy": 0.587,
+   "mood": "cinematic_rise",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:20.923446Z"
+  },
+  "7632399866786695185": {
+   "id": "7632399866786646033",
+   "clip_id": "7632399866786695185",
+   "name": "Sacred Prayer - The Universal Grace",
+   "artist": "Shinoa",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 59,
+   "rank": 12,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 66.3,
+    "pulse": 0.347,
+    "onset_rate": 3.24,
+    "centroid": 1223,
+    "loud_db": -11.0,
+    "dynamics_db": 3.5,
+    "low_ratio": 0.36,
+    "mode": "major"
+   },
+   "energy": 0.628,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:23.034650Z"
+  },
+  "7380249095700432937": {
+   "id": "7380249095700432937",
+   "clip_id": "7380249095700432937",
+   "name": "流行 欢快 滑稽",
+   "artist": "Lance",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 106,
+   "rank": 13,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found",
+   "analyzed_at": "2026-11-19T04:41:23.690185Z"
+  },
+  "6817312739740878849": {
+   "id": "6817312739740878849",
+   "clip_id": "6817312739740878849",
+   "name": "Error (message, notification, stop) _02",
+   "artist": "gunsou",
+   "genres": [],
+   "duration": 1,
+   "rank": 14,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "audio too short",
+   "analyzed_at": "2026-11-19T04:41:24.663422Z"
+  },
+  "7380331732421462057": {
+   "id": "7380331732421462057",
+   "clip_id": "7380331732421462057",
+   "name": "寻找丢失 ESPECIALLY (QUARTET)",
+   "artist": "Opensound",
+   "genres": [],
+   "duration": 138,
+   "rank": 15,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found",
+   "analyzed_at": "2026-11-19T04:41:25.286703Z"
+  },
+  "6817175451169982466": {
+   "id": "6817175451169982466",
+   "clip_id": "6817175451169982466",
+   "name": "Darkness / Magic / Boom / Evil_02",
+   "artist": "MATSU",
+   "genres": [],
+   "duration": 4,
+   "rank": 16,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "audio too short",
+   "analyzed_at": "2026-11-19T04:41:26.408933Z"
+  },
+  "7125577980989933569": {
+   "id": "7125577970760861697",
+   "clip_id": "7125577980989933569",
+   "name": "相思種籽",
+   "artist": "田希仁",
+   "genres": [
+    "POP"
+   ],
+   "duration": 60,
+   "rank": 17,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.472,
+    "onset_rate": 3.04,
+    "centroid": 2469,
+    "loud_db": -17.1,
+    "dynamics_db": 10.2,
+    "low_ratio": 0.179,
+    "mode": "minor"
+   },
+   "energy": 0.746,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:26.675471Z"
+  },
+  "7598517322286155777": {
+   "id": "7598517322286155777",
+   "clip_id": "7598517322286155777",
+   "name": "Love and love",
+   "artist": "Rain of Glory",
+   "genres": [
+    "POP"
+   ],
+   "duration": 224,
+   "rank": 18,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 152.0,
+    "pulse": 0.311,
+    "onset_rate": 2.73,
+    "centroid": 878,
+    "loud_db": -17.0,
+    "dynamics_db": 9.7,
+    "low_ratio": 0.227,
+    "mode": "minor"
+   },
+   "energy": 0.494,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:26.997816Z"
+  },
+  "7592556711685556241": {
+   "id": "7592556711685556241",
+   "clip_id": "7592556711685556241",
+   "name": "Beautiful Islamic",
+   "artist": "Udaw Music",
+   "genres": [],
+   "duration": 162,
+   "rank": 20,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 83.4,
+    "pulse": 0.524,
+    "onset_rate": 3.16,
+    "centroid": 1313,
+    "loud_db": -14.6,
+    "dynamics_db": 8.2,
+    "low_ratio": 0.3,
+    "mode": "major"
+   },
+   "energy": 0.63,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:28.176336Z"
+  },
+  "7677279344368338945": {
+   "id": "7677279344368322561",
+   "clip_id": "7677279344368338945",
+   "name": "عود عربي قديم أصيل",
+   "artist": "مَجْمَعُ الأوتار (Majma’u Al-Awtar)",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 23,
+   "rank": 21,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 83.4,
+    "pulse": 0.645,
+    "onset_rate": 2.91,
+    "centroid": 1072,
+    "loud_db": -12.0,
+    "dynamics_db": 8.4,
+    "low_ratio": 0.477,
+    "mode": "minor"
+   },
+   "energy": 0.567,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:30.026432Z"
+  },
+  "7410157700154492945": {
+   "id": "7410158777838684176",
+   "clip_id": "7410157700154492945",
+   "name": "Empty Chair Blues",
+   "artist": "Room2Breathe",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 60,
+   "rank": 22,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.349,
+    "onset_rate": 2.47,
+    "centroid": 1967,
+    "loud_db": -13.4,
+    "dynamics_db": 12.4,
+    "low_ratio": 0.256,
+    "mode": "major"
+   },
+   "energy": 0.607,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:30.488707Z"
+  },
+  "6850124243301058562": {
+   "id": "6850124243301058562",
+   "clip_id": "6850124243301058562",
+   "name": "Future Pop Fashionable (842208)",
+   "artist": "The Structures",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 125,
+   "rank": 23,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 112.3,
+    "pulse": 0.61,
+    "onset_rate": 2.6,
+    "centroid": 2232,
+    "loud_db": -14.9,
+    "dynamics_db": 17.9,
+    "low_ratio": 0.265,
+    "mode": "major"
+   },
+   "energy": 0.657,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:30.741833Z"
+  },
+  "6941428762894567426": {
+   "id": "6941428762894567426",
+   "clip_id": "6941428762894567426",
+   "name": "System error sound, mechanical alert sound 2(985596)",
+   "artist": "arnold26",
+   "genres": [],
+   "duration": 1,
+   "rank": 24,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "audio too short",
+   "analyzed_at": "2026-11-19T04:41:31.744963Z"
+  },
+  "6895833728690423809": {
+   "id": "6895833728690423809",
+   "clip_id": "6895833728690423809",
+   "name": "Rust, comical / karaoke in 7 seconds(889139)",
+   "artist": "JunPayer",
+   "genres": [],
+   "duration": 77,
+   "rank": 25,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 69.8,
+    "pulse": 0.594,
+    "onset_rate": 2.89,
+    "centroid": 2601,
+    "loud_db": -13.6,
+    "dynamics_db": 8.7,
+    "low_ratio": 0.168,
+    "mode": "major"
+   },
+   "energy": 0.74,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:31.987641Z"
+  },
+  "7021234492715862018": {
+   "id": "7021234492715862018",
+   "clip_id": "7021234492715862018",
+   "name": "Everyday jazz bass-based fashion(1110375)",
+   "artist": "cassettetape",
+   "genres": [],
+   "duration": 200,
+   "rank": 26,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 69.8,
+    "pulse": 0.814,
+    "onset_rate": 1.29,
+    "centroid": 2676,
+    "loud_db": -20.8,
+    "dynamics_db": 20.5,
+    "low_ratio": 0.336,
+    "mode": "minor"
+   },
+   "energy": 0.524,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:34.073255Z"
+  },
+  "7608661722588514305": {
+   "id": "7608661722588514305",
+   "clip_id": "7608661722588514305",
+   "name": "Epic Motivation",
+   "artist": "SILVANA INSPIRA",
+   "genres": [
+    "POP"
+   ],
+   "duration": 189,
+   "rank": 27,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.203,
+    "onset_rate": 2.53,
+    "centroid": 1970,
+    "loud_db": -16.3,
+    "dynamics_db": 8.2,
+    "low_ratio": 0.214,
+    "mode": "major"
+   },
+   "energy": 0.512,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:36.419771Z"
+  },
+  "7698670723128903681": {
+   "id": "7698670723128887297",
+   "clip_id": "7698670723128903681",
+   "name": "The Motivation",
+   "artist": "Abraao de Santana",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 59,
+   "rank": 28,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 66.3,
+    "pulse": 0.536,
+    "onset_rate": 3.16,
+    "centroid": 2558,
+    "loud_db": -12.0,
+    "dynamics_db": 7.1,
+    "low_ratio": 0.307,
+    "mode": "major"
+   },
+   "energy": 0.773,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:37.191699Z"
+  },
+  "7434913329078077457": {
+   "id": "7434913329078061073",
+   "clip_id": "7434913329078077457",
+   "name": "على قمة النجاح",
+   "artist": "Naiara Costa Da Silva",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 59,
+   "rank": 29,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 89.1,
+    "pulse": 0.884,
+    "onset_rate": 3.02,
+    "centroid": 998,
+    "loud_db": -16.4,
+    "dynamics_db": 10.1,
+    "low_ratio": 0.387,
+    "mode": "major"
+   },
+   "energy": 0.573,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:39.346303Z"
+  },
+  "7482449361160390657": {
+   "id": "7482449361160374273",
+   "clip_id": "7482449361160390657",
+   "name": "Marketing",
+   "artist": "MIDYTUNES",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 46,
+   "rank": 30,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 63.0,
+    "pulse": 0.807,
+    "onset_rate": 3.51,
+    "centroid": 2091,
+    "loud_db": -12.8,
+    "dynamics_db": 13.2,
+    "low_ratio": 0.429,
+    "mode": "major"
+   },
+   "energy": 0.769,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:41.271049Z"
+  },
+  "7477926942080747521": {
+   "id": "7477926942080747521",
+   "clip_id": "7477926942080747521",
+   "name": "Icarus (Instrumental Épico)",
+   "artist": "The Pianist & David Souza",
+   "genres": [
+    "POP"
+   ],
+   "duration": 62,
+   "rank": 33,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 78.3,
+    "pulse": 0.517,
+    "onset_rate": 2.91,
+    "centroid": 1149,
+    "loud_db": -12.5,
+    "dynamics_db": 10.1,
+    "low_ratio": 0.408,
+    "mode": "minor"
+   },
+   "energy": 0.575,
+   "mood": "tense_drive",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:43.432562Z"
+  },
+  "7434547256361748481": {
+   "id": "7434547256361732097",
+   "clip_id": "7434547256361748481",
+   "name": "تشويق",
+   "artist": "DJ EV",
+   "genres": [
+    "POP"
+   ],
+   "duration": 59,
+   "rank": 34,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.461,
+    "onset_rate": 3.38,
+    "centroid": 1304,
+    "loud_db": -17.3,
+    "dynamics_db": 5.3,
+    "low_ratio": 0.341,
+    "mode": "major"
+   },
+   "energy": 0.659,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:45.489308Z"
+  },
+  "7686267102432741377": {
+   "id": "7686267102432741377",
+   "clip_id": "7686267102432741377",
+   "name": "بحب الكلام",
+   "artist": "mariusz andrzej dunajski",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 160,
+   "rank": 35,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.147,
+    "onset_rate": 2.6,
+    "centroid": 1285,
+    "loud_db": -14.8,
+    "dynamics_db": 11.0,
+    "low_ratio": 0.162,
+    "mode": "major"
+   },
+   "energy": 0.403,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:46.538631Z"
+  },
+  "6618871733141113604": {
+   "id": "6618871733141113604",
+   "clip_id": "6618871733141113604",
+   "name": "Sunrise",
+   "artist": "BCD Studio",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 31,
+   "rank": 36,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.582,
+    "onset_rate": 2.79,
+    "centroid": 1588,
+    "loud_db": -8.8,
+    "dynamics_db": 30.9,
+    "low_ratio": 0.276,
+    "mode": "minor"
+   },
+   "energy": 0.609,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:46.751072Z"
+  },
+  "7317216126823680001": {
+   "id": "7317226577933895682",
+   "clip_id": "7317216126823680001",
+   "name": "天気の良い日は街へ",
+   "artist": "田中芳典",
+   "genres": [
+    "POP"
+   ],
+   "duration": 60,
+   "rank": 37,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.52,
+    "onset_rate": 3.0,
+    "centroid": 1934,
+    "loud_db": -13.7,
+    "dynamics_db": 10.3,
+    "low_ratio": 0.256,
+    "mode": "major"
+   },
+   "energy": 0.679,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:47.016722Z"
+  },
+  "7449803023785297937": {
+   "id": "7449810155171235856",
+   "clip_id": "7449803023785297937",
+   "name": "My Zen Mornings",
+   "artist": "soulful beats & soave lofi",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 60,
+   "rank": 38,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 86.1,
+    "pulse": 0.543,
+    "onset_rate": 2.49,
+    "centroid": 2181,
+    "loud_db": -13.5,
+    "dynamics_db": 10.4,
+    "low_ratio": 0.246,
+    "mode": "minor"
+   },
+   "energy": 0.635,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:47.676961Z"
+  },
+  "7482874811062847504": {
+   "id": "7482874811062831120",
+   "clip_id": "7482874811062847504",
+   "name": "Jazz Blue",
+   "artist": "Wallvas",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 60,
+   "rank": 39,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 69.8,
+    "pulse": 0.376,
+    "onset_rate": 3.02,
+    "centroid": 2628,
+    "loud_db": -12.7,
+    "dynamics_db": 13.5,
+    "low_ratio": 0.324,
+    "mode": "major"
+   },
+   "energy": 0.762,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:47.978589Z"
+  },
+  "7692142823621675014": {
+   "id": "7692142823621658630",
+   "clip_id": "7692142823621675014",
+   "name": "الحمد لله دائما وابدا",
+   "artist": "fumiyo layman",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 19,
+   "rank": 40,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 143.6,
+    "pulse": 0.089,
+    "onset_rate": 4.23,
+    "centroid": 1744,
+    "loud_db": -10.6,
+    "dynamics_db": 17.2,
+    "low_ratio": 0.269,
+    "mode": "minor"
+   },
+   "energy": 0.611,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:49.788781Z"
+  },
+  "7536823323991263249": {
+   "id": "7536830765696157697",
+   "clip_id": "7536823323991263249",
+   "name": "عذبة الروح",
+   "artist": "احمد ال شملان Ahmad Al Shamlan I",
+   "genres": [],
+   "duration": 60,
+   "rank": 42,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 107.7,
+    "pulse": 0.537,
+    "onset_rate": 3.84,
+    "centroid": 2396,
+    "loud_db": -12.2,
+    "dynamics_db": 8.0,
+    "low_ratio": 0.222,
+    "mode": "major"
+   },
+   "energy": 0.85,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:51.747069Z"
+  },
+  "6974520969671772162": {
+   "id": "6974520969671772162",
+   "clip_id": "6974520969671772162",
+   "name": "Sexy and relaxed BGM(1022541)",
+   "artist": "zephyr",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 110,
+   "rank": 45,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 73.8,
+    "pulse": 0.475,
+    "onset_rate": 2.33,
+    "centroid": 1266,
+    "loud_db": -19.0,
+    "dynamics_db": 6.3,
+    "low_ratio": 0.361,
+    "mode": "major"
+   },
+   "energy": 0.507,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:52.311520Z"
+  },
+  "7013201849201199105": {
+   "id": "7013201849201199105",
+   "clip_id": "7013201849201199105",
+   "name": "Success",
+   "artist": "ZHRMusic",
+   "genres": [
+    "POP"
+   ],
+   "duration": 150,
+   "rank": 47,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.959,
+    "onset_rate": 2.24,
+    "centroid": 1893,
+    "loud_db": -10.0,
+    "dynamics_db": 8.5,
+    "low_ratio": 0.293,
+    "mode": "major"
+   },
+   "energy": 0.567,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:54.590489Z"
+  },
+  "6997107854080264194": {
+   "id": "6997107850900146177",
+   "clip_id": "6997107854080264194",
+   "name": "BCC News",
+   "artist": "Ockeroid",
+   "genres": [],
+   "duration": 60,
+   "rank": 48,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "audio too short",
+   "analyzed_at": "2026-11-19T04:41:56.570122Z"
+  },
+  "7398996363818878992": {
+   "id": "7398996363818878992",
+   "clip_id": "7398996363818878992",
+   "name": "Win the Olympics",
+   "artist": "Kley Kley",
+   "genres": [
+    "EXPERIMENTAL"
+   ],
+   "duration": 87,
+   "rank": 50,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 92.3,
+    "pulse": 0.361,
+    "onset_rate": 2.87,
+    "centroid": 1934,
+    "loud_db": -13.4,
+    "dynamics_db": 8.0,
+    "low_ratio": 0.322,
+    "mode": "major"
+   },
+   "energy": 0.66,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:41:58.789494Z"
+  },
+  "7683460875470718977": {
+   "id": "7683460875470718977",
+   "clip_id": "7683460875470718977",
+   "name": "دعاء صباح الحمد لله حمدا دائما وابدأ",
+   "artist": "jason john brooks",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 67,
+   "rank": 51,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 152.0,
+    "pulse": 0.127,
+    "onset_rate": 2.76,
+    "centroid": 1676,
+    "loud_db": -16.0,
+    "dynamics_db": 10.6,
+    "low_ratio": 0.32,
+    "mode": "minor"
+   },
+   "energy": 0.456,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:00.918231Z"
+  },
+  "7226472010817046530": {
+   "id": "7226472010817046530",
+   "clip_id": "7226472010817046530",
+   "name": "Hack Me",
+   "artist": "Bruno Boe",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 152,
+   "rank": 52,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.713,
+    "onset_rate": 3.22,
+    "centroid": 1914,
+    "loud_db": -11.2,
+    "dynamics_db": 19.3,
+    "low_ratio": 0.424,
+    "mode": "major"
+   },
+   "energy": 0.707,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:01.770431Z"
+  },
+  "7031666552407590913": {
+   "id": "7031666552407590913",
+   "clip_id": "7031666552407590913",
+   "name": "Happy Light Jazz - Cafe3(1133560)",
+   "artist": "Kobat",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 127,
+   "rank": 53,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.548,
+    "onset_rate": 3.04,
+    "centroid": 912,
+    "loud_db": -16.1,
+    "dynamics_db": 10.3,
+    "low_ratio": 0.371,
+    "mode": "major"
+   },
+   "energy": 0.566,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:02.070661Z"
+  },
+  "7626731639871834113": {
+   "id": "7626731639871834113",
+   "clip_id": "7626731639871834113",
+   "name": "Montagem da Chupeta",
+   "artist": "Lthiago",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 93,
+   "rank": 54,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.487,
+    "onset_rate": 3.42,
+    "centroid": 2619,
+    "loud_db": -9.1,
+    "dynamics_db": 17.0,
+    "low_ratio": 0.324,
+    "mode": "major"
+   },
+   "energy": 0.817,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:04.267555Z"
+  },
+  "7042000759147202562": {
+   "id": "7042000759147202562",
+   "clip_id": "7042000759147202562",
+   "name": "Ancient mural painting of aliens(1157533)",
+   "artist": "AZUMAYA",
+   "genres": [],
+   "duration": 305,
+   "rank": 55,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.23,
+    "onset_rate": 2.8,
+    "centroid": 2319,
+    "loud_db": -16.9,
+    "dynamics_db": 24.6,
+    "low_ratio": 0.065,
+    "mode": "minor"
+   },
+   "energy": 0.609,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:04.529591Z"
+  },
+  "7610709961919727617": {
+   "id": "7610709961919727617",
+   "clip_id": "7610709961919727617",
+   "name": "Islamic Fashion",
+   "artist": "SILVANA INSPIRA",
+   "genres": [
+    "POP"
+   ],
+   "duration": 208,
+   "rank": 57,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.608,
+    "onset_rate": 3.29,
+    "centroid": 2219,
+    "loud_db": -13.7,
+    "dynamics_db": 8.2,
+    "low_ratio": 0.296,
+    "mode": "major"
+   },
+   "energy": 0.752,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:07.019929Z"
+  },
+  "7472683618831992848": {
+   "id": "7472683618831992848",
+   "clip_id": "7472683618831992848",
+   "name": "Still",
+   "artist": "Amir Nazari",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 221,
+   "rank": 58,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.696,
+    "onset_rate": 4.2,
+    "centroid": 2522,
+    "loud_db": -8.9,
+    "dynamics_db": 9.8,
+    "low_ratio": 0.352,
+    "mode": "minor"
+   },
+   "energy": 0.887,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:08.721742Z"
+  },
+  "7606033105140893713": {
+   "id": "7606033105140893713",
+   "clip_id": "7606033105140893713",
+   "name": "Motivational",
+   "artist": "SILVANA INSPIRA",
+   "genres": [
+    "POP"
+   ],
+   "duration": 185,
+   "rank": 60,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.17,
+    "onset_rate": 2.84,
+    "centroid": 1479,
+    "loud_db": -15.4,
+    "dynamics_db": 9.8,
+    "low_ratio": 0.286,
+    "mode": "major"
+   },
+   "energy": 0.475,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:11.088493Z"
+  },
+  "7075908388312139777": {
+   "id": "7075908388312139777",
+   "clip_id": "7075908388312139777",
+   "name": "Run / seaside / early morning / comfortable EDM loop(1213476)",
+   "artist": "zomap",
+   "genres": [],
+   "duration": 210,
+   "rank": 61,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 64.6,
+    "pulse": 0.633,
+    "onset_rate": 3.93,
+    "centroid": 2314,
+    "loud_db": -12.1,
+    "dynamics_db": 8.6,
+    "low_ratio": 0.279,
+    "mode": "minor"
+   },
+   "energy": 0.853,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:13.266586Z"
+  },
+  "7649079161018304528": {
+   "id": "7649079161018288144",
+   "clip_id": "7649079161018304528",
+   "name": "Hope In Motion",
+   "artist": "A'ngl Caam & Ely Mar & Ahng'l & tw75",
+   "genres": [
+    "ALTERNATIVE/INDIE"
+   ],
+   "duration": 56,
+   "rank": 62,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.279,
+    "onset_rate": 2.27,
+    "centroid": 1656,
+    "loud_db": -9.5,
+    "dynamics_db": 16.5,
+    "low_ratio": 0.383,
+    "mode": "major"
+   },
+   "energy": 0.493,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:15.396247Z"
+  },
+  "7023375768554047489": {
+   "id": "7023375768554047489",
+   "clip_id": "7023375768554047489",
+   "name": "Promotional",
+   "artist": "FlyFlyMusic",
+   "genres": [
+    "POP"
+   ],
+   "duration": 148,
+   "rank": 63,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.806,
+    "onset_rate": 3.82,
+    "centroid": 1353,
+    "loud_db": -8.5,
+    "dynamics_db": 6.4,
+    "low_ratio": 0.335,
+    "mode": "major"
+   },
+   "energy": 0.727,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:16.342152Z"
+  },
+  "7651830629941856273": {
+   "id": "7651830629941856273",
+   "clip_id": "7651830629941856273",
+   "name": "It's a vibe",
+   "artist": "Echo Lounge",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 77,
+   "rank": 64,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 66.3,
+    "pulse": 0.75,
+    "onset_rate": 3.42,
+    "centroid": 1311,
+    "loud_db": -13.2,
+    "dynamics_db": 11.3,
+    "low_ratio": 0.498,
+    "mode": "major"
+   },
+   "energy": 0.666,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:17.245740Z"
+  },
+  "7586682322754947088": {
+   "id": "7586682322754914320",
+   "clip_id": "7586682322754947088",
+   "name": "Last Door",
+   "artist": "Epic Inspiration & Neodigital",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 55,
+   "rank": 66,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.508,
+    "onset_rate": 2.22,
+    "centroid": 1549,
+    "loud_db": -12.8,
+    "dynamics_db": 17.7,
+    "low_ratio": 0.358,
+    "mode": "major"
+   },
+   "energy": 0.525,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:17.530296Z"
+  },
+  "6817472741495539713": {
+   "id": "6817472741495539713",
+   "clip_id": "6817472741495539713",
+   "name": "Refreshing and transparent acoustic music",
+   "artist": "Yusuke Shimizu",
+   "genres": [],
+   "duration": 139,
+   "rank": 67,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 69.8,
+    "pulse": 0.893,
+    "onset_rate": 2.31,
+    "centroid": 1128,
+    "loud_db": -14.2,
+    "dynamics_db": 12.3,
+    "low_ratio": 0.434,
+    "mode": "minor"
+   },
+   "energy": 0.489,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:17.797967Z"
+  },
+  "7619077235771213841": {
+   "id": "7619089309845522433",
+   "clip_id": "7619077235771213841",
+   "name": "سرى محبينه",
+   "artist": "احمد ال شملان Ahmad Al Shamlan I",
+   "genres": [],
+   "duration": 60,
+   "rank": 68,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 107.7,
+    "pulse": 0.423,
+    "onset_rate": 4.56,
+    "centroid": 2117,
+    "loud_db": -10.5,
+    "dynamics_db": 7.0,
+    "low_ratio": 0.208,
+    "mode": "major"
+   },
+   "energy": 0.84,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:20.017424Z"
+  },
+  "7586673340749154321": {
+   "id": "7586673340749154321",
+   "clip_id": "7586673340749154321",
+   "name": "Love You",
+   "artist": "David Souza Guitar & Ted D'souza & ChillØut & Dani Audiomix",
+   "genres": [
+    "POP"
+   ],
+   "duration": 129,
+   "rank": 69,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 61.5,
+    "pulse": 0.324,
+    "onset_rate": 1.67,
+    "centroid": 870,
+    "loud_db": -15.8,
+    "dynamics_db": 14.0,
+    "low_ratio": 0.537,
+    "mode": "minor"
+   },
+   "energy": 0.354,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:20.324454Z"
+  },
+  "7501680481626785808": {
+   "id": "7501680481626785808",
+   "clip_id": "7501680481626785808",
+   "name": "Vlog",
+   "artist": "wouldliker",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 270,
+   "rank": 70,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.689,
+    "onset_rate": 2.73,
+    "centroid": 1676,
+    "loud_db": -13.4,
+    "dynamics_db": 19.7,
+    "low_ratio": 0.376,
+    "mode": "minor"
+   },
+   "energy": 0.611,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:22.901937Z"
+  },
+  "7417722243537012752": {
+   "id": "7417722243537012752",
+   "clip_id": "7417722243537012752",
+   "name": "보고싶다",
+   "artist": "JJUNE",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 183,
+   "rank": 71,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 89.1,
+    "pulse": 0.121,
+    "onset_rate": 1.56,
+    "centroid": 531,
+    "loud_db": -16.6,
+    "dynamics_db": 6.2,
+    "low_ratio": 0.226,
+    "mode": "minor"
+   },
+   "energy": 0.193,
+   "mood": "melancholic",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:25.458504Z"
+  },
+  "7607471723072931857": {
+   "id": "7607471723072931857",
+   "clip_id": "7607471723072931857",
+   "name": "Epic Motivational",
+   "artist": "SILVANA INSPIRA",
+   "genres": [
+    "POP"
+   ],
+   "duration": 258,
+   "rank": 72,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 95.7,
+    "pulse": 0.183,
+    "onset_rate": 2.6,
+    "centroid": 1566,
+    "loud_db": -16.2,
+    "dynamics_db": 9.4,
+    "low_ratio": 0.249,
+    "mode": "major"
+   },
+   "energy": 0.461,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:27.951348Z"
+  },
+  "7492085965951895569": {
+   "id": "7492085965951879185",
+   "clip_id": "7492085965951895569",
+   "name": "LOS VOLTAJE (Sped Up)",
+   "artist": "Sayfalse & Yb Wasg'ood & Ariis",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 59,
+   "rank": 73,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.365,
+    "onset_rate": 2.96,
+    "centroid": 2188,
+    "loud_db": -4.2,
+    "dynamics_db": 11.5,
+    "low_ratio": 0.203,
+    "mode": "minor"
+   },
+   "energy": 0.702,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:29.996654Z"
+  },
+  "7566364917197326353": {
+   "id": "7566364917197326353",
+   "clip_id": "7566364917197326353",
+   "name": "Italian Panettone",
+   "artist": "Kley Kley",
+   "genres": [
+    "FOLK"
+   ],
+   "duration": 115,
+   "rank": 75,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.58,
+    "onset_rate": 3.22,
+    "centroid": 2194,
+    "loud_db": -14.9,
+    "dynamics_db": 10.8,
+    "low_ratio": 0.257,
+    "mode": "major"
+   },
+   "energy": 0.74,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:32.298127Z"
+  },
+  "6991887393565607938": {
+   "id": "6991887393565607938",
+   "clip_id": "6991887393565607938",
+   "name": "Shimmering Providence",
+   "artist": "DJ BAI",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 60,
+   "rank": 76,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found",
+   "analyzed_at": "2026-11-19T04:42:32.920668Z"
+  },
+  "7418808165381654544": {
+   "id": "7418808165381654544",
+   "clip_id": "7418808165381654544",
+   "name": "Beautiful morning sunlight",
+   "artist": "SATOSHI",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 119,
+   "rank": 77,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.784,
+    "onset_rate": 4.42,
+    "centroid": 505,
+    "loud_db": -12.0,
+    "dynamics_db": 4.1,
+    "low_ratio": 0.179,
+    "mode": "major"
+   },
+   "energy": 0.7,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:35.217704Z"
+  },
+  "7608622916461119505": {
+   "id": "7608622916461119505",
+   "clip_id": "7608622916461119505",
+   "name": "Motivational",
+   "artist": "SILVANA INSPIRA",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 329,
+   "rank": 78,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 83.4,
+    "pulse": 0.238,
+    "onset_rate": 2.73,
+    "centroid": 1983,
+    "loud_db": -16.0,
+    "dynamics_db": 5.2,
+    "low_ratio": 0.236,
+    "mode": "major"
+   },
+   "energy": 0.566,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:37.024783Z"
+  },
+  "7247803271426803714": {
+   "id": "7247798272293849089",
+   "clip_id": "7247803271426803714",
+   "name": "In My Own Mind",
+   "artist": "Atomica Music",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 60,
+   "rank": 80,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 80.7,
+    "pulse": 0.711,
+    "onset_rate": 3.27,
+    "centroid": 2626,
+    "loud_db": -11.3,
+    "dynamics_db": 15.0,
+    "low_ratio": 0.376,
+    "mode": "major"
+   },
+   "energy": 0.796,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:39.343454Z"
+  },
+  "7382586744220190736": {
+   "id": "7382586744220174352",
+   "clip_id": "7382586744220190736",
+   "name": "It's only 100 years before I die",
+   "artist": "Guibolado28",
+   "genres": [
+    "POP"
+   ],
+   "duration": 42,
+   "rank": 81,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 112.3,
+    "pulse": 0.621,
+    "onset_rate": 2.78,
+    "centroid": 1438,
+    "loud_db": -14.9,
+    "dynamics_db": 20.4,
+    "low_ratio": 0.476,
+    "mode": "major"
+   },
+   "energy": 0.591,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:39.603863Z"
+  },
+  "7664670418251188225": {
+   "id": "7664670418251188225",
+   "clip_id": "7664670418251188225",
+   "name": "Power Resistance",
+   "artist": "Wbsound",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 192,
+   "rank": 82,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.63,
+    "onset_rate": 1.98,
+    "centroid": 1042,
+    "loud_db": -13.4,
+    "dynamics_db": 20.6,
+    "low_ratio": 0.531,
+    "mode": "major"
+   },
+   "energy": 0.432,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:41.770773Z"
+  },
+  "7065441671458883586": {
+   "id": "7065441671458883586",
+   "clip_id": "7065441671458883586",
+   "name": "Feeling the seasons around, I tried playing the acoustic guitar(1200024)",
+   "artist": "kajisan",
+   "genres": [],
+   "duration": 184,
+   "rank": 84,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.629,
+    "onset_rate": 3.51,
+    "centroid": 1465,
+    "loud_db": -19.1,
+    "dynamics_db": 8.8,
+    "low_ratio": 0.435,
+    "mode": "major"
+   },
+   "energy": 0.696,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:42.034104Z"
+  },
+  "7410788826660898832": {
+   "id": "7410788826660898832",
+   "clip_id": "7410788826660898832",
+   "name": "Radiance of Joy",
+   "artist": "Skull737_",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 240,
+   "rank": 86,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 89.1,
+    "pulse": 0.714,
+    "onset_rate": 4.04,
+    "centroid": 513,
+    "loud_db": -14.1,
+    "dynamics_db": 5.2,
+    "low_ratio": 0.199,
+    "mode": "major"
+   },
+   "energy": 0.7,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:44.367277Z"
+  },
+  "7042199507841910785": {
+   "id": "7042199507841910785",
+   "clip_id": "7042199507841910785",
+   "name": "Upbeat Kawaii Pop Music for Youtube, Vlogs & Marketing. - No Backing Vocals -(1154040)",
+   "artist": "Sauti",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 178,
+   "rank": 87,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.625,
+    "onset_rate": 2.87,
+    "centroid": 1237,
+    "loud_db": -12.5,
+    "dynamics_db": 18.2,
+    "low_ratio": 0.539,
+    "mode": "major"
+   },
+   "energy": 0.58,
+   "mood": "cinematic_rise",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:46.512143Z"
+  },
+  "7623352783568996353": {
+   "id": "7623352783568996353",
+   "clip_id": "7623352783568996353",
+   "name": "Cozy at Home",
+   "artist": "ALOHI STYLE",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 63,
+   "rank": 88,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 80.7,
+    "pulse": 0.561,
+    "onset_rate": 2.13,
+    "centroid": 991,
+    "loud_db": -9.6,
+    "dynamics_db": 9.4,
+    "low_ratio": 0.285,
+    "mode": "minor"
+   },
+   "energy": 0.448,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:46.780225Z"
+  },
+  "7663100854963488784": {
+   "id": "7663100854963488784",
+   "clip_id": "7663100854963488784",
+   "name": "Peace",
+   "artist": "Ember",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 143,
+   "rank": 89,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 136.0,
+    "pulse": 0.457,
+    "onset_rate": 1.42,
+    "centroid": 368,
+    "loud_db": -16.1,
+    "dynamics_db": 12.7,
+    "low_ratio": 0.489,
+    "mode": "major"
+   },
+   "energy": 0.337,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:49.051475Z"
+  },
+  "7445353273732155393": {
+   "id": "7445358009583323137",
+   "clip_id": "7445353273732155393",
+   "name": "Kangen",
+   "artist": "Musisi JK",
+   "genres": [],
+   "duration": 60,
+   "rank": 90,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 76.0,
+    "pulse": 0.506,
+    "onset_rate": 2.47,
+    "centroid": 1706,
+    "loud_db": -13.7,
+    "dynamics_db": 4.8,
+    "low_ratio": 0.207,
+    "mode": "minor"
+   },
+   "energy": 0.578,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:51.080523Z"
+  },
+  "6981828410792216577": {
+   "id": "6981828404915996674",
+   "clip_id": "6981828410792216577",
+   "name": "Little Things",
+   "artist": "Adrián Berenguer",
+   "genres": [
+    "NEW_AGE"
+   ],
+   "duration": 60,
+   "rank": 92,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.458,
+    "onset_rate": 2.93,
+    "centroid": 709,
+    "loud_db": -20.0,
+    "dynamics_db": 9.7,
+    "low_ratio": 0.305,
+    "mode": "major"
+   },
+   "energy": 0.55,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:42:53.180116Z"
+  },
+  "7400427767664723985": {
+   "id": "7400427767664723985",
+   "clip_id": "7400427767664723985",
+   "name": "FOFURA DEMAIS",
+   "artist": "Camila martins",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 144,
+   "rank": 93,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 89.1,
+    "pulse": 0.712,
+    "onset_rate": 2.73,
+    "centroid": 588,
+    "loud_db": -16.1,
+    "dynamics_db": 6.9,
+    "low_ratio": 0.277,
+    "mode": "major"
+   },
+   "energy": 0.521,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:00.199671Z"
+  },
+  "7658703861000554513": {
+   "id": "7658703861000538129",
+   "clip_id": "7658703861000554513",
+   "name": "Vintage",
+   "artist": "The Scoring Room",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 59,
+   "rank": 94,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 92.3,
+    "pulse": 0.684,
+    "onset_rate": 1.87,
+    "centroid": 1152,
+    "loud_db": -12.7,
+    "dynamics_db": 12.8,
+    "low_ratio": 0.35,
+    "mode": "minor"
+   },
+   "energy": 0.43,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:00.461852Z"
+  },
+  "7630095661589268497": {
+   "id": "7630095661589252113",
+   "clip_id": "7630095661589268497",
+   "name": "Call back",
+   "artist": "Tygeronbeat",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 59,
+   "rank": 96,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.511,
+    "onset_rate": 2.89,
+    "centroid": 2294,
+    "loud_db": -7.5,
+    "dynamics_db": 22.3,
+    "low_ratio": 0.363,
+    "mode": "major"
+   },
+   "energy": 0.705,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:02.002848Z"
+  },
+  "7405108641009108993": {
+   "id": "7405108641009076225",
+   "clip_id": "7405108641009108993",
+   "name": "Dancing Through the Air",
+   "artist": "JAZZY.KEI2",
+   "genres": [],
+   "duration": 25,
+   "rank": 97,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 89.1,
+    "pulse": 0.609,
+    "onset_rate": 3.01,
+    "centroid": 2400,
+    "loud_db": -11.0,
+    "dynamics_db": 11.0,
+    "low_ratio": 0.245,
+    "mode": "minor"
+   },
+   "energy": 0.734,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:03.813285Z"
+  },
+  "7619518330973898769": {
+   "id": "7619518330973898769",
+   "clip_id": "7619518330973898769",
+   "name": "I Love You",
+   "artist": "Giovanna Oddy",
+   "genres": [
+    "ALTERNATIVE/INDIE"
+   ],
+   "duration": 192,
+   "rank": 98,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 69.8,
+    "pulse": 0.737,
+    "onset_rate": 2.02,
+    "centroid": 1878,
+    "loud_db": -15.9,
+    "dynamics_db": 7.3,
+    "low_ratio": 0.352,
+    "mode": "major"
+   },
+   "energy": 0.534,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:06.147966Z"
+  },
+  "7606033063025412112": {
+   "id": "7606033063025412112",
+   "clip_id": "7606033063025412112",
+   "name": "Inspiration Epic",
+   "artist": "SILVANA INSPIRA",
+   "genres": [
+    "POP"
+   ],
+   "duration": 168,
+   "rank": 99,
+   "chart": "SA",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 66.3,
+    "pulse": 0.279,
+    "onset_rate": 2.82,
+    "centroid": 1371,
+    "loud_db": -15.4,
+    "dynamics_db": 13.2,
+    "low_ratio": 0.346,
+    "mode": "minor"
+   },
+   "energy": 0.538,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:08.410030Z"
+  },
+  "7584037896080918529": {
+   "id": "7584037896080902145",
+   "clip_id": "7584037896080918529",
+   "name": "Sunset in Girona",
+   "artist": "Noah Preminger & Max Light",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 19,
+   "rank": 1,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 66.3,
+    "pulse": 0.086,
+    "onset_rate": 2.55,
+    "centroid": 677,
+    "loud_db": -13.9,
+    "dynamics_db": 8.2,
+    "low_ratio": 0.336,
+    "mode": "major"
+   },
+   "energy": 0.308,
+   "mood": "calm_focus",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:08.577084Z"
+  },
+  "7234215160234854402": {
+   "id": "7234215160234854402",
+   "clip_id": "7234215160234854402",
+   "name": "Vacuum cleaner, vacuum, sucking sound, buzz(1434918)",
+   "artist": "Yoh",
+   "genres": [],
+   "duration": 10,
+   "rank": 5,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.098,
+    "onset_rate": 2.38,
+    "centroid": 2656,
+    "loud_db": -9.6,
+    "dynamics_db": 40.2,
+    "low_ratio": 0.032,
+    "mode": "major"
+   },
+   "energy": 0.495,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:08.686912Z"
+  },
+  "6938832030624942081": {
+   "id": "6938832027849115649",
+   "clip_id": "6938832030624942081",
+   "name": "Tribunal",
+   "artist": "soulecist.",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 60,
+   "rank": 6,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 152.0,
+    "pulse": 0.428,
+    "onset_rate": 2.67,
+    "centroid": 1286,
+    "loud_db": -9.0,
+    "dynamics_db": 10.3,
+    "low_ratio": 0.466,
+    "mode": "major"
+   },
+   "energy": 0.558,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:08.979704Z"
+  },
+  "7363314838511175697": {
+   "id": "7363314575675541521",
+   "clip_id": "7363314838511175697",
+   "name": "Ok I Like It",
+   "artist": "Milky Chance",
+   "genres": [
+    "ALTERNATIVE/INDIE"
+   ],
+   "duration": 29,
+   "rank": 8,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 63.0,
+    "pulse": 0.729,
+    "onset_rate": 3.13,
+    "centroid": 1843,
+    "loud_db": -9.7,
+    "dynamics_db": 14.4,
+    "low_ratio": 0.334,
+    "mode": "minor"
+   },
+   "energy": 0.686,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:10.752531Z"
+  },
+  "6839352350495213569": {
+   "id": "6839352350495213569",
+   "clip_id": "6839352350495213569",
+   "name": "Beautiful Cinematic Ambient(831471)",
+   "artist": "arachang",
+   "genres": [],
+   "duration": 200,
+   "rank": 9,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.23,
+    "onset_rate": 1.69,
+    "centroid": 546,
+    "loud_db": -11.8,
+    "dynamics_db": 7.3,
+    "low_ratio": 0.701,
+    "mode": "minor"
+   },
+   "energy": 0.289,
+   "mood": "melancholic",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:11.498355Z"
+  },
+  "7462757141536884753": {
+   "id": "7462757141536868369",
+   "clip_id": "7462757141536884753",
+   "name": "Final Game Showdown",
+   "artist": "ProdByLucK",
+   "genres": [
+    "POP"
+   ],
+   "duration": 59,
+   "rank": 11,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 136.0,
+    "pulse": 0.504,
+    "onset_rate": 3.13,
+    "centroid": 481,
+    "loud_db": -13.4,
+    "dynamics_db": 12.0,
+    "low_ratio": 0.642,
+    "mode": "major"
+   },
+   "energy": 0.578,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:11.764521Z"
+  },
+  "6804341479381682177": {
+   "id": "6804341479373277185",
+   "clip_id": "6804341479381682177",
+   "name": "Take Me Down",
+   "artist": "LEL",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 60,
+   "rank": 12,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 61.5,
+    "pulse": 0.578,
+    "onset_rate": 2.42,
+    "centroid": 2154,
+    "loud_db": -8.3,
+    "dynamics_db": 12.8,
+    "low_ratio": 0.241,
+    "mode": "major"
+   },
+   "energy": 0.623,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:13.838998Z"
+  },
+  "6954097066670819330": {
+   "id": "6954097066670819330",
+   "clip_id": "6954097066670819330",
+   "name": "Cinematic Piano Emo Ballad(992014)",
+   "artist": "RIKIYA",
+   "genres": [],
+   "duration": 41,
+   "rank": 13,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 76.0,
+    "pulse": 0.281,
+    "onset_rate": 1.63,
+    "centroid": 536,
+    "loud_db": -15.3,
+    "dynamics_db": 11.9,
+    "low_ratio": 0.271,
+    "mode": "major"
+   },
+   "energy": 0.317,
+   "mood": "calm_focus",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:14.066197Z"
+  },
+  "7013825539228862466": {
+   "id": "7013825516839012354",
+   "clip_id": "7013825539228862466",
+   "name": "Take Me Down",
+   "artist": "Shiino",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 60,
+   "rank": 14,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.918,
+    "onset_rate": 4.13,
+    "centroid": 3877,
+    "loud_db": -8.4,
+    "dynamics_db": 25.3,
+    "low_ratio": 0.24,
+    "mode": "major"
+   },
+   "energy": 1.0,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:14.348553Z"
+  },
+  "7506899491666003984": {
+   "id": "7506899491665987600",
+   "clip_id": "7506899491666003984",
+   "name": "The Room That Remembers",
+   "artist": "The 7th Avenue Studio of Soul",
+   "genres": [
+    "POP"
+   ],
+   "duration": 59,
+   "rank": 18,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.063,
+    "onset_rate": 2.27,
+    "centroid": 1983,
+    "loud_db": -12.5,
+    "dynamics_db": 10.9,
+    "low_ratio": 0.272,
+    "mode": "major"
+   },
+   "energy": 0.377,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:14.634948Z"
+  },
+  "7292983468472076289": {
+   "id": "7292983468472076289",
+   "clip_id": "7292983468472076289",
+   "name": "Funny",
+   "artist": "FASSounds",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 95,
+   "rank": 19,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 63.0,
+    "pulse": 0.82,
+    "onset_rate": 3.36,
+    "centroid": 2148,
+    "loud_db": -7.8,
+    "dynamics_db": 12.8,
+    "low_ratio": 0.356,
+    "mode": "major"
+   },
+   "energy": 0.754,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:16.588075Z"
+  },
+  "6940666829178308610": {
+   "id": "6940666829178308610",
+   "clip_id": "6940666829178308610",
+   "name": "Retro game style, brave, cool jingle(980299)",
+   "artist": "Studiolance",
+   "genres": [],
+   "duration": 5,
+   "rank": 20,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.197,
+    "onset_rate": 2.68,
+    "centroid": 2059,
+    "loud_db": -13.8,
+    "dynamics_db": 57.5,
+    "low_ratio": 0.219,
+    "mode": "minor"
+   },
+   "energy": 0.539,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:16.696567Z"
+  },
+  "6997889024551553025": {
+   "id": "6997889024551553025",
+   "clip_id": "6997889024551553025",
+   "name": "Ao: Female cry g(1077033)",
+   "artist": "SUNNY HOOD STUDIO",
+   "genres": [],
+   "duration": 4,
+   "rank": 21,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "audio too short",
+   "analyzed_at": "2026-11-19T04:43:16.783436Z"
+  },
+  "7362923718127601665": {
+   "id": "7362942509822494736",
+   "clip_id": "7362923718127601665",
+   "name": "U R B an isolate",
+   "artist": "Sōmaphore",
+   "genres": [
+    "POP"
+   ],
+   "duration": 60,
+   "rank": 22,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 143.6,
+    "pulse": 0.31,
+    "onset_rate": 4.42,
+    "centroid": 1966,
+    "loud_db": -8.8,
+    "dynamics_db": 5.8,
+    "low_ratio": 0.34,
+    "mode": "major"
+   },
+   "energy": 0.794,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:17.213633Z"
+  },
+  "7031695995717044225": {
+   "id": "7031695995717044225",
+   "clip_id": "7031695995717044225",
+   "name": "Healing Christmas _ O Holy Night(1144178)",
+   "artist": "harryfaoki",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 259,
+   "rank": 23,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 61.5,
+    "pulse": 0.342,
+    "onset_rate": 2.42,
+    "centroid": 898,
+    "loud_db": -19.9,
+    "dynamics_db": 16.4,
+    "low_ratio": 0.185,
+    "mode": "major"
+   },
+   "energy": 0.472,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:17.481391Z"
+  },
+  "7574626054234589185": {
+   "id": "7574626054234589185",
+   "clip_id": "7574626054234589185",
+   "name": "Piano melody to express gratitude(1667439)",
+   "artist": "naopapa",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 502,
+   "rank": 24,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.524,
+    "onset_rate": 1.33,
+    "centroid": 614,
+    "loud_db": -16.6,
+    "dynamics_db": 8.6,
+    "low_ratio": 0.247,
+    "mode": "minor"
+   },
+   "energy": 0.325,
+   "mood": "melancholic",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:17.778666Z"
+  },
+  "6941078599957776385": {
+   "id": "6941078599957776385",
+   "clip_id": "6941078599957776385",
+   "name": "Cinematic, texture, trailer(985708)",
+   "artist": "dama",
+   "genres": [],
+   "duration": 136,
+   "rank": 25,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.485,
+    "onset_rate": 4.6,
+    "centroid": 2263,
+    "loud_db": -14.4,
+    "dynamics_db": 7.3,
+    "low_ratio": 0.218,
+    "mode": "minor"
+   },
+   "energy": 0.857,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:18.036195Z"
+  },
+  "7429837356331206673": {
+   "id": "7429837356331206673",
+   "clip_id": "7429837356331206673",
+   "name": "Árvore da vida",
+   "artist": "Elias pires",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 179,
+   "rank": 27,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.557,
+    "onset_rate": 2.51,
+    "centroid": 645,
+    "loud_db": -18.3,
+    "dynamics_db": 9.5,
+    "low_ratio": 0.385,
+    "mode": "major"
+   },
+   "energy": 0.49,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:18.350892Z"
+  },
+  "7228560515818752002": {
+   "id": "7228560515818735618",
+   "clip_id": "7228560515818752002",
+   "name": "What More Can I Say",
+   "artist": "Teddy Swims",
+   "genres": [
+    "POP"
+   ],
+   "duration": 60,
+   "rank": 29,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.37,
+    "onset_rate": 3.04,
+    "centroid": 2892,
+    "loud_db": -7.4,
+    "dynamics_db": 7.5,
+    "low_ratio": 0.19,
+    "mode": "minor"
+   },
+   "energy": 0.795,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:18.616100Z"
+  },
+  "6925938464953206785": {
+   "id": "6925938464953206785",
+   "clip_id": "6925938464953206785",
+   "name": "A ballad that suits an elegant tea party(961475)",
+   "artist": "Mio",
+   "genres": [],
+   "duration": 188,
+   "rank": 30,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 112.3,
+    "pulse": 0.209,
+    "onset_rate": 2.31,
+    "centroid": 2388,
+    "loud_db": -19.0,
+    "dynamics_db": 9.9,
+    "low_ratio": 0.05,
+    "mode": "major"
+   },
+   "energy": 0.533,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:18.918562Z"
+  },
+  "6830447359621597186": {
+   "id": "6830447359621597186",
+   "clip_id": "6830447359621597186",
+   "name": "Comical Touch Jingle(54007)",
+   "artist": "SOUND BANK",
+   "genres": [],
+   "duration": 16,
+   "rank": 31,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 86.1,
+    "pulse": 0.441,
+    "onset_rate": 2.24,
+    "centroid": 2357,
+    "loud_db": -18.4,
+    "dynamics_db": 67.4,
+    "low_ratio": 0.161,
+    "mode": "minor"
+   },
+   "energy": 0.621,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:19.059952Z"
+  },
+  "6925876157262858241": {
+   "id": "6925876157262858241",
+   "clip_id": "6925876157262858241",
+   "name": "Impressive magnificent emo cinematic(943575)",
+   "artist": "The Structures",
+   "genres": [],
+   "duration": 214,
+   "rank": 33,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 76.0,
+    "pulse": 0.424,
+    "onset_rate": 1.82,
+    "centroid": 1785,
+    "loud_db": -18.7,
+    "dynamics_db": 6.1,
+    "low_ratio": 0.164,
+    "mode": "major"
+   },
+   "energy": 0.496,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:19.399557Z"
+  },
+  "7552183815725877265": {
+   "id": "7552183815725860881",
+   "clip_id": "7552183815725877265",
+   "name": "Christmas",
+   "artist": "Axby",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 59,
+   "rank": 35,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 76.0,
+    "pulse": 0.756,
+    "onset_rate": 2.6,
+    "centroid": 2401,
+    "loud_db": -11.4,
+    "dynamics_db": 5.4,
+    "low_ratio": 0.259,
+    "mode": "major"
+   },
+   "energy": 0.676,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:19.714708Z"
+  },
+  "7316298716276099074": {
+   "id": "7316298716276099074",
+   "clip_id": "7316298716276099074",
+   "name": "mission name NINJA",
+   "artist": "稿屋 隆",
+   "genres": [
+    "POP"
+   ],
+   "duration": 128,
+   "rank": 41,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.143,
+    "onset_rate": 2.93,
+    "centroid": 581,
+    "loud_db": -15.0,
+    "dynamics_db": 27.5,
+    "low_ratio": 0.621,
+    "mode": "major"
+   },
+   "energy": 0.402,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:20.018063Z"
+  },
+  "7021268761299437570": {
+   "id": "7021268761299437570",
+   "clip_id": "7021268761299437570",
+   "name": "Cheerful country fiddle CM light running feeling h(1124764)",
+   "artist": "TERAMURA SO",
+   "genres": [],
+   "duration": 15,
+   "rank": 42,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 143.6,
+    "pulse": 0.75,
+    "onset_rate": 4.38,
+    "centroid": 2200,
+    "loud_db": -11.6,
+    "dynamics_db": 9.0,
+    "low_ratio": 0.238,
+    "mode": "major"
+   },
+   "energy": 0.85,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:20.165876Z"
+  },
+  "6964452718816462849": {
+   "id": "6964452718816462849",
+   "clip_id": "6964452718816462849",
+   "name": "Breakout sound, slightly heavier(1011315)",
+   "artist": "Potov",
+   "genres": [],
+   "duration": 1,
+   "rank": 43,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "audio too short",
+   "analyzed_at": "2026-11-19T04:43:20.248042Z"
+  },
+  "6817675735537289218": {
+   "id": "6817675735537289218",
+   "clip_id": "6817675735537289218",
+   "name": "Sound logo for opening 58",
+   "artist": "MOCHIXTONE",
+   "genres": [],
+   "duration": 16,
+   "rank": 46,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.099,
+    "onset_rate": 2.49,
+    "centroid": 1533,
+    "loud_db": -22.2,
+    "dynamics_db": 77.2,
+    "low_ratio": 0.131,
+    "mode": "major"
+   },
+   "energy": 0.381,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:20.396483Z"
+  },
+  "7358897506882848785": {
+   "id": "7358897506882848785",
+   "clip_id": "7358897506882848785",
+   "name": "Beautiful cinematic soundtrack full of hope(1530151)",
+   "artist": "MaxRecStudio",
+   "genres": [],
+   "duration": 130,
+   "rank": 47,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.775,
+    "onset_rate": 2.73,
+    "centroid": 875,
+    "loud_db": -16.3,
+    "dynamics_db": 5.8,
+    "low_ratio": 0.152,
+    "mode": "minor"
+   },
+   "energy": 0.521,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:20.684848Z"
+  },
+  "6904652377408669697": {
+   "id": "6817145085784754177",
+   "clip_id": "6904652377408669697",
+   "name": "\"Walkure's Jogging\" Weakness Arrange",
+   "artist": "yo suzuki(akisai)",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 30,
+   "rank": 49,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 92.3,
+    "pulse": 0.569,
+    "onset_rate": 2.43,
+    "centroid": 1700,
+    "loud_db": -17.2,
+    "dynamics_db": 11.0,
+    "low_ratio": 0.132,
+    "mode": "minor"
+   },
+   "energy": 0.572,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:20.904670Z"
+  },
+  "6902470349854623746": {
+   "id": "6902470349850413058",
+   "clip_id": "6902470349854623746",
+   "name": "Gotta Be",
+   "artist": "Seemann",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 60,
+   "rank": 50,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 61.5,
+    "pulse": 0.835,
+    "onset_rate": 3.8,
+    "centroid": 3487,
+    "loud_db": -9.0,
+    "dynamics_db": 24.4,
+    "low_ratio": 0.192,
+    "mode": "major"
+   },
+   "energy": 0.97,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:21.281205Z"
+  },
+  "6817563038267213825": {
+   "id": "6817563038267213825",
+   "clip_id": "6817563038267213825",
+   "name": "Techno with a strange sense of code",
+   "artist": "Masayuki Funami",
+   "genres": [],
+   "duration": 104,
+   "rank": 54,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 63.0,
+    "pulse": 0.736,
+    "onset_rate": 4.27,
+    "centroid": 2251,
+    "loud_db": -8.2,
+    "dynamics_db": 13.4,
+    "low_ratio": 0.386,
+    "mode": "major"
+   },
+   "energy": 0.856,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:21.539308Z"
+  },
+  "7008705746284054529": {
+   "id": "7008705746284054529",
+   "clip_id": "7008705746284054529",
+   "name": "Disturbing Dissonance Cinematic(1099175)",
+   "artist": "beefsoul",
+   "genres": [],
+   "duration": 156,
+   "rank": 56,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.223,
+    "onset_rate": 2.71,
+    "centroid": 649,
+    "loud_db": -24.0,
+    "dynamics_db": 15.5,
+    "low_ratio": 0.216,
+    "mode": "minor"
+   },
+   "energy": 0.428,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:21.791406Z"
+  },
+  "7024585786671269889": {
+   "id": "7024585786671269889",
+   "clip_id": "7024585786671269889",
+   "name": "小遊戲音樂Ⅱ",
+   "artist": "曾志豪",
+   "genres": [
+    "POP"
+   ],
+   "duration": 46,
+   "rank": 57,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 123.0,
+    "pulse": 0.556,
+    "onset_rate": 4.38,
+    "centroid": 2217,
+    "loud_db": -12.9,
+    "dynamics_db": 11.4,
+    "low_ratio": 0.256,
+    "mode": "minor"
+   },
+   "energy": 0.852,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:22.049407Z"
+  },
+  "7627465519239120897": {
+   "id": "7627465519239120897",
+   "clip_id": "7627465519239120897",
+   "name": "TREND DAS FRUTAS",
+   "artist": "Dj Rhamon Dm",
+   "genres": [],
+   "duration": 103,
+   "rank": 58,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.159,
+    "onset_rate": 2.51,
+    "centroid": 2060,
+    "loud_db": -19.8,
+    "dynamics_db": 25.9,
+    "low_ratio": 0.16,
+    "mode": "minor"
+   },
+   "energy": 0.488,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:22.354489Z"
+  },
+  "6909711627545741314": {
+   "id": "6909711627545741314",
+   "clip_id": "6909711627545741314",
+   "name": "忘不了的情意",
+   "artist": "黄凤凤",
+   "genres": [
+    "POP"
+   ],
+   "duration": 183,
+   "rank": 60,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found",
+   "analyzed_at": "2026-11-19T04:43:22.998658Z"
+  },
+  "6896125455976368129": {
+   "id": "6896125455976368129",
+   "clip_id": "6896125455976368129",
+   "name": "Guitar, fantastic, beautiful, urban, neon, night(889279)",
+   "artist": "Yu Yaguchi",
+   "genres": [
+    "POP"
+   ],
+   "duration": 170,
+   "rank": 61,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 89.1,
+    "pulse": 0.497,
+    "onset_rate": 3.0,
+    "centroid": 1621,
+    "loud_db": -12.7,
+    "dynamics_db": 8.2,
+    "low_ratio": 0.307,
+    "mode": "major"
+   },
+   "energy": 0.643,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:23.291698Z"
+  },
+  "7133435758342080513": {
+   "id": "7133435758342080513",
+   "clip_id": "7133435758342080513",
+   "name": "被收藏的時光(網劇<致我們單純的小美好>配樂)",
+   "artist": "解男",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 104,
+   "rank": 64,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 80.7,
+    "pulse": 0.413,
+    "onset_rate": 1.82,
+    "centroid": 846,
+    "loud_db": -18.7,
+    "dynamics_db": 19.5,
+    "low_ratio": 0.463,
+    "mode": "major"
+   },
+   "energy": 0.393,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:25.683897Z"
+  },
+  "7288944607224023042": {
+   "id": "7288944607224023042",
+   "clip_id": "7288944607224023042",
+   "name": "Christmas",
+   "artist": "neozilla",
+   "genres": [
+    "CLASSICAL"
+   ],
+   "duration": 150,
+   "rank": 65,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 63.0,
+    "pulse": 0.5,
+    "onset_rate": 2.89,
+    "centroid": 2740,
+    "loud_db": -11.5,
+    "dynamics_db": 11.1,
+    "low_ratio": 0.183,
+    "mode": "major"
+   },
+   "energy": 0.756,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:26.011605Z"
+  },
+  "6997806039110420481": {
+   "id": "6997806039110420481",
+   "clip_id": "6997806039110420481",
+   "name": "Latin flavored reggae hip hop(1079110)",
+   "artist": "stst-Bonz",
+   "genres": [],
+   "duration": 194,
+   "rank": 66,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 86.1,
+    "pulse": 0.482,
+    "onset_rate": 3.49,
+    "centroid": 1790,
+    "loud_db": -10.0,
+    "dynamics_db": 15.9,
+    "low_ratio": 0.331,
+    "mode": "major"
+   },
+   "energy": 0.731,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:26.300270Z"
+  },
+  "6774139262104242177": {
+   "id": "6774139262104242177",
+   "clip_id": "6774139262104242177",
+   "name": "Summer Festival Energy",
+   "artist": "TimTaj",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 156,
+   "rank": 67,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.782,
+    "onset_rate": 3.18,
+    "centroid": 2593,
+    "loud_db": -8.3,
+    "dynamics_db": 13.3,
+    "low_ratio": 0.227,
+    "mode": "minor"
+   },
+   "energy": 0.78,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:28.623276Z"
+  },
+  "6742509535417600001": {
+   "id": "6742509535413405697",
+   "clip_id": "6742509535417600001",
+   "name": "Tid Lee Red",
+   "artist": "The Baker's Basement",
+   "genres": [
+    "FOLK"
+   ],
+   "duration": 60,
+   "rank": 69,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 136.0,
+    "pulse": 0.449,
+    "onset_rate": 3.53,
+    "centroid": 2577,
+    "loud_db": -13.6,
+    "dynamics_db": 16.5,
+    "low_ratio": 0.174,
+    "mode": "major"
+   },
+   "energy": 0.827,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:29.062606Z"
+  },
+  "7316670019470985217": {
+   "id": "7316670019470985217",
+   "clip_id": "7316670019470985217",
+   "name": "危機",
+   "artist": "かずち",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 94,
+   "rank": 72,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.624,
+    "onset_rate": 3.93,
+    "centroid": 2121,
+    "loud_db": -8.9,
+    "dynamics_db": 4.9,
+    "low_ratio": 0.267,
+    "mode": "minor"
+   },
+   "energy": 0.831,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:29.433714Z"
+  },
+  "7133389378496006145": {
+   "id": "7133389378496006145",
+   "clip_id": "7133389378496006145",
+   "name": "Breezeway",
+   "artist": "Atomica Music",
+   "genres": [
+    "POP"
+   ],
+   "duration": 138,
+   "rank": 73,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 69.8,
+    "pulse": 0.601,
+    "onset_rate": 3.58,
+    "centroid": 2010,
+    "loud_db": -14.9,
+    "dynamics_db": 8.1,
+    "low_ratio": 0.155,
+    "mode": "major"
+   },
+   "energy": 0.769,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:31.504693Z"
+  },
+  "7568674409541928961": {
+   "id": "7568676682699556881",
+   "clip_id": "7568674409541928961",
+   "name": "Seductive Sexy Fire",
+   "artist": "Rodriggo Júnior",
+   "genres": [
+    "ALTERNATIVE/INDIE"
+   ],
+   "duration": 60,
+   "rank": 74,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 61.5,
+    "pulse": 0.397,
+    "onset_rate": 1.53,
+    "centroid": 650,
+    "loud_db": -11.6,
+    "dynamics_db": 12.1,
+    "low_ratio": 0.484,
+    "mode": "major"
+   },
+   "energy": 0.353,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:31.777305Z"
+  },
+  "7011547241353742338": {
+   "id": "7011547241353742338",
+   "clip_id": "7011547241353742338",
+   "name": "Urban sophisticated piano songs(1086011)",
+   "artist": "pianocafe Kumi",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 184,
+   "rank": 76,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.313,
+    "onset_rate": 1.31,
+    "centroid": 667,
+    "loud_db": -19.5,
+    "dynamics_db": 13.2,
+    "low_ratio": 0.284,
+    "mode": "minor"
+   },
+   "energy": 0.295,
+   "mood": "melancholic",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:32.106325Z"
+  },
+  "6974433334211971073": {
+   "id": "6974433334211971073",
+   "clip_id": "6974433334211971073",
+   "name": "Magnificent yet beautiful cinematic(1037598)",
+   "artist": "S_R",
+   "genres": [
+    "POP"
+   ],
+   "duration": 60,
+   "rank": 77,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 143.6,
+    "pulse": 0.389,
+    "onset_rate": 3.33,
+    "centroid": 2812,
+    "loud_db": -13.2,
+    "dynamics_db": 7.3,
+    "low_ratio": 0.228,
+    "mode": "minor"
+   },
+   "energy": 0.826,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:32.359297Z"
+  },
+  "7315927291699595266": {
+   "id": "7315927291699595266",
+   "clip_id": "7315927291699595266",
+   "name": "禁止区",
+   "artist": "shimtone",
+   "genres": [
+    "POP"
+   ],
+   "duration": 171,
+   "rank": 78,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 66.3,
+    "pulse": 0.428,
+    "onset_rate": 3.24,
+    "centroid": 2186,
+    "loud_db": -16.1,
+    "dynamics_db": 7.7,
+    "low_ratio": 0.076,
+    "mode": "major"
+   },
+   "energy": 0.742,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:34.735215Z"
+  },
+  "6849405904635299841": {
+   "id": "6849405904631105538",
+   "clip_id": "6849405904635299841",
+   "name": "Good Vibes",
+   "artist": "Matt Larsson",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 60,
+   "rank": 80,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 95.7,
+    "pulse": 0.316,
+    "onset_rate": 3.07,
+    "centroid": 1962,
+    "loud_db": -17.4,
+    "dynamics_db": 16.1,
+    "low_ratio": 0.281,
+    "mode": "minor"
+   },
+   "energy": 0.667,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:35.168501Z"
+  },
+  "7380331702118172726": {
+   "id": "7380331702118172726",
+   "clip_id": "7380331702118172726",
+   "name": "不安弦乐ESPECIALLY (MAIN VERSION)",
+   "artist": "Opensound",
+   "genres": [],
+   "duration": 138,
+   "rank": 81,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found",
+   "analyzed_at": "2026-11-19T04:43:35.760822Z"
+  },
+  "7059980521060698114": {
+   "id": "7059980512286214146",
+   "clip_id": "7059980521060698114",
+   "name": "floW elohttuB yrgnuH",
+   "artist": "$2 Bill",
+   "genres": [
+    "ALTERNATIVE/INDIE"
+   ],
+   "duration": 55,
+   "rank": 82,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 161.5,
+    "pulse": 0.098,
+    "onset_rate": 3.71,
+    "centroid": 1782,
+    "loud_db": -2.3,
+    "dynamics_db": 13.5,
+    "low_ratio": 0.3,
+    "mode": "major"
+   },
+   "energy": 0.581,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:36.024765Z"
+  },
+  "7706854464279906310": {
+   "id": "7706862199218161716",
+   "clip_id": "7706854464279906310",
+   "name": "Memory Signal",
+   "artist": "Bonobo",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 60,
+   "rank": 83,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.573,
+    "onset_rate": 3.87,
+    "centroid": 2097,
+    "loud_db": -8.7,
+    "dynamics_db": 25.0,
+    "low_ratio": 0.293,
+    "mode": "minor"
+   },
+   "energy": 0.82,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:37.889510Z"
+  },
+  "7644041584786426654": {
+   "id": "7647229123379972097",
+   "clip_id": "7644041584786426654",
+   "name": "Take Me (To The Moon)",
+   "artist": "Ian Asher & D A N N Y",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 19,
+   "rank": 84,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 86.1,
+    "pulse": 0.506,
+    "onset_rate": 3.47,
+    "centroid": 1766,
+    "loud_db": -7.2,
+    "dynamics_db": 4.2,
+    "low_ratio": 0.224,
+    "mode": "major"
+   },
+   "energy": 0.725,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:38.525243Z"
+  },
+  "6954097057640482817": {
+   "id": "6954097057640482817",
+   "clip_id": "6954097057640482817",
+   "name": "Cinematic Piano Emo Ballad(991922)",
+   "artist": "RIKIYA",
+   "genres": [],
+   "duration": 217,
+   "rank": 85,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 76.0,
+    "pulse": 0.257,
+    "onset_rate": 1.22,
+    "centroid": 505,
+    "loud_db": -15.7,
+    "dynamics_db": 10.9,
+    "low_ratio": 0.318,
+    "mode": "major"
+   },
+   "energy": 0.243,
+   "mood": "calm_focus",
+   "instrumental_hint": true,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:40.655447Z"
+  },
+  "7418655981578504209": {
+   "id": "7418655981578504209",
+   "clip_id": "7418655981578504209",
+   "name": "Back In The 60's",
+   "artist": "Alexandros Iacovides",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 160,
+   "rank": 87,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 99.4,
+    "pulse": 0.405,
+    "onset_rate": 2.82,
+    "centroid": 1430,
+    "loud_db": -15.1,
+    "dynamics_db": 18.2,
+    "low_ratio": 0.455,
+    "mode": "minor"
+   },
+   "energy": 0.595,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:42.876161Z"
+  },
+  "6817359039727405058": {
+   "id": "6817359039727405058",
+   "clip_id": "6817359039727405058",
+   "name": "Mild heartbreak heartbreak ending",
+   "artist": "SOUND BANK",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 64,
+   "rank": 88,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 89.1,
+    "pulse": 0.645,
+    "onset_rate": 2.11,
+    "centroid": 1170,
+    "loud_db": -12.8,
+    "dynamics_db": 7.5,
+    "low_ratio": 0.396,
+    "mode": "minor"
+   },
+   "energy": 0.465,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:44.756172Z"
+  },
+  "7067448353474217985": {
+   "id": "7067448353474217985",
+   "clip_id": "7067448353474217985",
+   "name": "Stalking",
+   "artist": "Piano Amor",
+   "genres": [
+    "ELECTRONIC"
+   ],
+   "duration": 66,
+   "rank": 89,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 117.5,
+    "pulse": 0.597,
+    "onset_rate": 2.4,
+    "centroid": 879,
+    "loud_db": -16.8,
+    "dynamics_db": 35.4,
+    "low_ratio": 0.241,
+    "mode": "minor"
+   },
+   "energy": 0.475,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:46.712778Z"
+  },
+  "7497004279560374288": {
+   "id": "7497004865265846289",
+   "clip_id": "7497004279560374288",
+   "name": "I Love the Nighttime",
+   "artist": "Ray Flanagan",
+   "genres": [
+    "POP"
+   ],
+   "duration": 60,
+   "rank": 93,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 95.7,
+    "pulse": 0.219,
+    "onset_rate": 2.6,
+    "centroid": 1834,
+    "loud_db": -14.8,
+    "dynamics_db": 19.1,
+    "low_ratio": 0.207,
+    "mode": "minor"
+   },
+   "energy": 0.517,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:46.987348Z"
+  },
+  "7699227998612899892": {
+   "id": "7699227998612899892",
+   "clip_id": "7699227998612899892",
+   "name": "A Brighter Street Begins With Us",
+   "artist": "Amara Goldwell",
+   "genres": [
+    "R&B/SOUL"
+   ],
+   "duration": 223,
+   "rank": 94,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 103.4,
+    "pulse": 0.531,
+    "onset_rate": 3.44,
+    "centroid": 2532,
+    "loud_db": -14.6,
+    "dynamics_db": 14.1,
+    "low_ratio": 0.269,
+    "mode": "major"
+   },
+   "energy": 0.81,
+   "mood": "cinematic_rise",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:49.223030Z"
+  },
+  "7488712835657746449": {
+   "id": "7488712835657730065",
+   "clip_id": "7488712835657746449",
+   "name": "Rainy Night in Georgia",
+   "artist": "B-SKip",
+   "genres": [
+    "JAZZ"
+   ],
+   "duration": 15,
+   "rank": 96,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 63.0,
+    "pulse": 0.366,
+    "onset_rate": 2.87,
+    "centroid": 840,
+    "loud_db": -6.7,
+    "dynamics_db": 12.3,
+    "low_ratio": 0.693,
+    "mode": "major"
+   },
+   "energy": 0.541,
+   "mood": "warm_hope",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:50.713329Z"
+  },
+  "7315927587124692993": {
+   "id": "7315927587124692993",
+   "clip_id": "7315927587124692993",
+   "name": "平和な日常",
+   "artist": "マニーラ",
+   "genres": [
+    "POP"
+   ],
+   "duration": 84,
+   "rank": 98,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 80.7,
+    "pulse": 0.571,
+    "onset_rate": 1.82,
+    "centroid": 1343,
+    "loud_db": -14.8,
+    "dynamics_db": 6.3,
+    "low_ratio": 0.404,
+    "mode": "minor"
+   },
+   "energy": 0.445,
+   "mood": "mystery",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:52.723769Z"
+  },
+  "7021219591007242242": {
+   "id": "7021219591007242242",
+   "clip_id": "7021219591007242242",
+   "name": "Classic deep house(1102303)",
+   "artist": "Yorm",
+   "genres": [],
+   "duration": 153,
+   "rank": 99,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "features": {
+    "bpm": 129.2,
+    "pulse": 0.666,
+    "onset_rate": 4.42,
+    "centroid": 2566,
+    "loud_db": -10.5,
+    "dynamics_db": 13.0,
+    "low_ratio": 0.234,
+    "mode": "minor"
+   },
+   "energy": 0.892,
+   "mood": "tense_drive",
+   "instrumental_hint": false,
+   "ok": true,
+   "analyzed_at": "2026-11-19T04:43:53.010384Z"
+  },
+  "6991995871311333377": {
+   "id": "6991995871311333377",
+   "clip_id": "6991995871311333377",
+   "name": "Velvety Captor",
+   "artist": "DJ BAI",
+   "genres": [
+    "EASY_LISTENING"
+   ],
+   "duration": 60,
+   "rank": 100,
+   "chart": "GL",
+   "last_seen": "2026-11-19T04:40:52.837Z",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found",
+   "analyzed_at": "2026-11-19T04:43:53.728348Z"
+  }
+ },
+ "updated_at": "2026-11-19T04:43:53.953422Z",
+ "count": 142,
+ "moods": {
+  "calm_focus": 3,
+  "reflective": 0,
+  "melancholic": 4,
+  "warm_hope": 22,
+  "mystery": 16,
+  "cinematic_rise": 53,
+  "tense_drive": 28
+ }
+}
